@@ -1,0 +1,13 @@
+{
+    "name": "ranktotop/marcmeese-companion",
+    "description": "Technische Ergänzungen für marcmeese.de.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.1",
+        "yahnis-elsts/plugin-update-checker": "^5.6"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
